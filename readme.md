@@ -7,12 +7,12 @@ And then edit script.py with your own .png files and desired rarities.
 The script will generate the JSON, png, and log the results for you to verify.  
 
 Ex.
-> python script.py
-sonic.png: 100 NFTs created
-tails.png: 100 NFTs created
-knuckles.png: 100 NFTs created
-amy.png: 75 NFTs created
-big.png: 50 NFTs created
-shadow.png: 50 NFTs created
-eggman.png: 20 NFTs created
-metalsonic.png: 5 NFTs created
+> python script.py <br>
+sonic.png: 100 NFTs created <br>
+tails.png: 100 NFTs created <br>
+knuckles.png: 100 NFTs created <br>
+amy.png: 75 NFTs created <br>
+big.png: 50 NFTs created <br>
+shadow.png: 50 NFTs created <br>
+eggman.png: 20 NFTs created <br>
+metalsonic.png: 5 NFTs created <br>

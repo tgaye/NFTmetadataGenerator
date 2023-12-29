@@ -1,3 +1,5 @@
+# Please leave a ⭐ if this helps you
+
 This is a repo for generating metadata dynamically based on rarity.
 It is setup for the Solana blockchain.
 

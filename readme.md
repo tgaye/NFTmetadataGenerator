@@ -1,6 +1,9 @@
 This is a repo for generating metadata dynamically based on rarity.
 It is setup for the Solana blockchain.
 
+Video tutorial: <br> 
+https://twitter.com/boobs_scary/status/1740702201620877729
+
 Simply Fill the directory with the pngs you want to sample from,
 And then edit script.py with your own .png files and desired rarities.
 
